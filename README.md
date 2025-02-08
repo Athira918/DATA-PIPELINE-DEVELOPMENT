@@ -1,10 +1,10 @@
 # DATA-PIPELINE-DEVELOPMENT
-CODTECH IT SOLUTIONS
-ATHIRA.K
-CT08QSM
-DATA SCIENCE
-4 WEEKS
-NEELA SANTHOSH
+COMPANY:CODTECH IT SOLUTIONS
+NAME:ATHIRA.K
+INTERN ID:CT08QSM
+DOMAIN:DATA SCIENCE
+DURATION:4 WEEKS
+MENTOR:NEELA SANTHOSH
 
 
 This project focuses on developing a structured data pipeline to preprocess, clean, and analyze customer review data. The goal is to transform raw data into a structured format suitable for further analysis, visualization, and potential machine learning applications. The dataset consists of customer reviews, including product IDs, user information, ratings, timestamps, and text reviews.
