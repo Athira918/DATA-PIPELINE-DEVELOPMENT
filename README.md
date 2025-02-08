@@ -35,4 +35,4 @@ This project successfully builds an end-to-end data pipeline that transforms raw
 
 
 **OUTPUT
-![Image](https://github.com/user-attachments/assets/7c5d2485-c43e-4c1c-9ff5-a18931044415)
+![Image](https://github.com/user-attachments/assets/c911d07e-8817-4130-b0ba-76227e8224a4)
