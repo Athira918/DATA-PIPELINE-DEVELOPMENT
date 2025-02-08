@@ -32,3 +32,7 @@ Boxplots help detect outliers in helpfulness scores, providing insights into use
 The dataset is now structured, cleaned, and ready for advanced analytics such as sentiment analysis, recommendation systems, or predictive modeling.
 
 This project successfully builds an end-to-end data pipeline that transforms raw customer reviews into a structured, analyzable format. By leveraging data preprocessing techniques and visualization tools, the pipeline provides valuable insights and ensures data readiness for machine learning models. Future enhancements may include natural language processing (NLP) for text review analysis and sentiment classification to extract deeper insights into customer opinions.
+
+
+**OUTPUT
+<!-- Uploading "Task 1 and 1 more page - Personal - Microsoft​ Edge 08-02-2025 13_34_21.png"... -->
