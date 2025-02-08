@@ -35,4 +35,4 @@ This project successfully builds an end-to-end data pipeline that transforms raw
 
 
 **OUTPUT
-<!-- Uploading "Task 1 and 1 more page - Personal - Microsoft​ Edge 08-02-2025 13_34_21.png"... -->
+![Image](https://github.com/user-attachments/assets/1eb90379-5662-4b36-b742-06e128b37973)
