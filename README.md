@@ -30,3 +30,5 @@ Label encoding allows categorical features to be effectively used in further ana
 The histogram reveals whether customer ratings are mostly positive, negative, or neutral.
 Boxplots help detect outliers in helpfulness scores, providing insights into user behavior.
 The dataset is now structured, cleaned, and ready for advanced analytics such as sentiment analysis, recommendation systems, or predictive modeling.
+
+This project successfully builds an end-to-end data pipeline that transforms raw customer reviews into a structured, analyzable format. By leveraging data preprocessing techniques and visualization tools, the pipeline provides valuable insights and ensures data readiness for machine learning models. Future enhancements may include natural language processing (NLP) for text review analysis and sentiment classification to extract deeper insights into customer opinions.
